@@ -1,0 +1,4 @@
+tradingview_ta
+git+https://github.com/StreamAlpha/tvdatafeed.git
+finta
+requests
