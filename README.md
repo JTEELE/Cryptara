@@ -1,14 +1,8 @@
+## *Crypto Market Screener with Dashbaord Visualizations*
 
-&nbsp;&nbsp;&nbsp;&nbsp;![btc](Images/cryptara3.png)
+>### Combine the power of Python & Trading View to identify strong performers in the Market
 
-
-#### *Note: See 'AlgoBot-TA_and_NLP' for updated Trading Bot which includes more advanced Technical Analysis & Natural Language Processing.*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![btc](Images/python.png)&nbsp;&nbsp;&nbsp;
-![btc](Images/cryptara2.png)
-
->## A crypto filtering and technical analysis algorithm that leverages the power of TradingView.*  
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![btc](Images/python.png)&nbsp;&nbsp;&nbsp;
 ___
 
 ## System Requirements and Libraries
@@ -33,20 +27,22 @@ pip install -r requirements.txt
 ##
 
 >## Behind the scenes: 
->> This is a filteration script designed to isolate strong performing cryptocurrencies and project user's FMV of investment portfolio.
->> - Data: Historical prices, Momentum indicators and Oscillators
+>> This is a filteration script designed to isolate strong performing cryptocurrencies and project user's FMV of investment portfolio with Monte Carlo simulations.
+>> - Data: Historical prices, momentum indicators and oscillators
+>> - Note: Want to automate your brokereage account? See similar script with Algo-Trading & Natural Language Processing: [AlgoBot-TA_and_NLP](https://github.com/JTEELE/AlgoBot-TA_and_NLP)
 
 
 ___
 
-![btc](https://assets.coingecko.com/coins/images/1/thumb_2x/bitcoin.png?1547033579) ![eth](https://assets.coingecko.com/coins/images/279/thumb_2x/ethereum.png?1595348880) ![bnb](https://assets.coingecko.com/coins/images/825/thumb_2x/binance-coin-logo.png?1547034615) ![ADA](https://assets.coingecko.com/coins/images/975/thumb_2x/cardano.png?1547034860) ![DOGE](https://assets.coingecko.com/coins/images/5/thumb_2x/dogecoin.png?1547792256) ![SHIB](https://assets.coingecko.com/coins/images/11939/thumb_2x/shiba.png?1622619446) ![AXI](https://assets.coingecko.com/coins/images/13029/thumb_2x/axie_infinity_logo.png?1604471082) ![Mana](https://assets.coingecko.com/coins/images/878/thumb_2x/decentraland-mana.png?1550108745) ![KDA](https://assets.coingecko.com/coins/images/3693/thumb_2x/djLWD6mR_400x400.jpg?1591080616) ![avax](https://assets.coingecko.com/coins/images/12559/thumb_2x/coin-round-red.png?1604021818) ![luna](https://assets.coingecko.com/coins/images/8284/thumb_2x/luna1557227471663.png?1567147072) ![link](https://assets.coingecko.com/coins/images/877/thumb_2x/chainlink-new-logo.png?1547034700) ![matic](https://assets.coingecko.com/coins/images/4713/thumb_2x/matic-token-icon.png?1624446912) ![sol](https://assets.coingecko.com/coins/images/4128/thumb_2x/Solana.jpg?1635329178) ![ftm](https://assets.coingecko.com/coins/images/4001/thumb_2x/Fantom.png?1558015016) ![lite](https://assets.coingecko.com/coins/images/2/thumb_2x/litecoin.png?1547033580) ![xmr](https://assets.coingecko.com/coins/images/69/thumb_2x/monero_logo.png?1547033729) ![mim](https://assets.coingecko.com/coins/images/16786/thumb_2x/mimlogopng.png?1624979612) ![cake](https://assets.coingecko.com/coins/images/12632/thumb_2x/pancakeswap-cake-logo_%281%29.png?1629359065) ![aave](https://assets.coingecko.com/coins/images/12645/thumb_2x/AAVE.png?1601374110)
+![btc](https://assets.coingecko.com/coins/images/1/thumb_2x/bitcoin.png?1547033579) ![eth](https://assets.coingecko.com/coins/images/279/thumb_2x/ethereum.png?1595348880) ![bnb](https://assets.coingecko.com/coins/images/825/thumb_2x/binance-coin-logo.png?1547034615) ![DOGE](https://assets.coingecko.com/coins/images/5/thumb_2x/dogecoin.png?1547792256) ![AXI](https://assets.coingecko.com/coins/images/13029/thumb_2x/axie_infinity_logo.png?1604471082) ![link](https://assets.coingecko.com/coins/images/877/thumb_2x/chainlink-new-logo.png?1547034700)  ![sol](https://assets.coingecko.com/coins/images/4128/thumb_2x/Solana.jpg?1635329178) ![ftm](https://assets.coingecko.com/coins/images/4001/thumb_2x/Fantom.png?1558015016) ![lite](https://assets.coingecko.com/coins/images/2/thumb_2x/litecoin.png?1547033580) ![xmr](https://assets.coingecko.com/coins/images/69/thumb_2x/monero_logo.png?1547033729)  ![aave](https://assets.coingecko.com/coins/images/12645/thumb_2x/AAVE.png?1601374110)
 
 ___
 >## What is TradingView?
 > [TradingView](https://www.tradingview.com/) is a charting platform and a social network with over 30 million + users. TradingView provides latest (real time) stock, futures, index, Forex and cryptocurrencies data.
->
+>#
 > ![tv](Images/tv.png)
-> ![tv](Images/tvv.png)
+#
+>&nbsp;&nbsp;&nbsp;&nbsp;![btc](Images/TV2.png)
 
 ## Resources:
 1. TradingView
